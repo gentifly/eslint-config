@@ -1,0 +1,35 @@
+{
+  "name": "@gentifly/eslint-config",
+  "version": "0.0.1-ALPHA",
+  "description": "ESLint configuration used by Gentifly.",
+  "license": "MIT",
+  "type": "commonjs",
+  "private": false,
+  "author": {
+    "name": "Vinícius Gutierrez da Silva Rocha",
+    "email": "srgutyerrez@gmail.com",
+    "url": "https://github.com/Gutyerrez"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gentifly/eslint-config.git"
+  },
+  "engines": {
+    "node": "v20.x.x"
+  },
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.57.1",
+    "@typescript-eslint/parser": "^5.57.1",
+    "eslint": "^8.37.0",
+    "eslint-plugin-import-newlines": "^1.3.1"
+  },
+  "peerDependencies": {
+    "eslint": "^8.37.0",
+    "typescript": "^5.0.3"
+  },
+  "peerDependenciesMeta": {
+    "typescript": {
+      "optional": true
+    }
+  }
+}
