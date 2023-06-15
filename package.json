@@ -14,6 +14,11 @@
     "type": "git",
     "url": "git+https://github.com/gentifly/eslint-config.git"
   },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org",
+    "access": "public",
+    "tag": "latest"
+  },
   "engines": {
     "node": "v20.x.x"
   },
