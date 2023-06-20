@@ -21,4 +21,4 @@ npm install @gentifly/eslint-config@latest -D
 
 ## License
 
-Nest is [MIT licensed](LICENSE).
+[MIT licensed](LICENSE).
