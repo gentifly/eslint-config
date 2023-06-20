@@ -1,6 +1,6 @@
 {
   "name": "@gentifly/eslint-config",
-  "version": "0.0.3-ALPHA",
+  "version": "1.0.0",
   "description": "ESLint configuration used by Gentifly.",
   "license": "MIT",
   "type": "commonjs",
