@@ -14,7 +14,7 @@ module.exports = {
     'prefer-arrow-callback': 'error',
     'no-duplicate-imports': 'error',
     'no-case-declarations': 'error',
-    'no-trailing-spaces': ['error', { "ignoreComments": true }],
+    'no-trailing-spaces': ['error', { 'ignoreComments': true }],
     'indent': ['error', 2],
     'semi': ['error', 'always'],
     'import-newlines/enforce': [
@@ -32,9 +32,9 @@ module.exports = {
     'space-before-function-paren': [
       'error',
       {
-        "anonymous": "never",
-        "named": "never",
-        "asyncArrow": "always"
+        'anonymous': 'never',
+        'named': 'never',
+        'asyncArrow': 'always'
       }
     ],
     'max-len': [
